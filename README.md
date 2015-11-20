@@ -11,7 +11,7 @@ Say hi to humans.
 #include<stdio.h>
 void main()
 { 
-return 0
+return 0;
 }
 ```
 
