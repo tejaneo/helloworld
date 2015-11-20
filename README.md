@@ -2,7 +2,7 @@
 Say hi to humans.
 
 
-** This is a test bolding.**
+**This is a test bolding.**
 
 ##Heading level 2
 
